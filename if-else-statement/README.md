@@ -26,4 +26,4 @@ Test data:
 
 ### Built with
 
-- Javascript
+- Pure Javascript
