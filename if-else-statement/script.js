@@ -1,6 +1,5 @@
-const dolphins = 96 + 108 + 89;
 const koalas = 88 + 91 + 110;
-const dolphinsAverage = dolphins / 3;
+const dolphinsAverage =96 + 108 + 89 / 3;
 const koalasAverage = koalas / 3;
 const dolphins2 = 97 + 112 + 101;
 const koalas2 = 109 + 95 + 123;
